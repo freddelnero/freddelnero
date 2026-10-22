@@ -1,4 +1,4 @@
-## Hi there 👋
+## Computer Science and Business student at Hendrix College 👋
 
 <!--
 **freddelnero/freddelnero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
